@@ -2,8 +2,9 @@
 #### Sabypna@gmail.com - Paraná - Entre Rios - Argentina
 
 #### Introducción
-> Hace unos años terminé mis estudios (mientras trabajaba) que había postergado por otras prioridades incluyendo mi familia directa ( mujer y dos hijas). 
-Desde que finalicé estoy abocado plenamente al desarrollo, aprendiendo de nuevas tecnologías para proponer innovar. Y me encanta.
+> Hace unos años terminé mis estudios formales mientras continuaba trabajando. Lo había postergado por otras prioridades incluyendo mi familia directa ( mujer y dos hijas). 
+Desde que logré finalizar, estoy abocado plenamente al desarrollo, afianzando y aprendiendo de nuevas tecnologías para cumplimentar con mis tareas en tiempo y forma e intentar innovar. 
+Y me encanta. 
 
 #### Tecnologías 
 
