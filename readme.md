@@ -18,12 +18,12 @@ Y me encanta.
 
 |Puesto| Empresa |Años|
 |:---|:---:|:----:|
-|Vendedor minorista mayorista compras pagos soft-gestión (empresa familiar) |Marroquineria Los Norteños|1983-2001|
-|Administración y Docente informático|System Paraná (franquicia)|2002-2005|
-|Administración y Atención|Cyber La Esquina|2005-2008|
-|Administración y Atención|Casa Parque (Salón eventos)|2009-2015|
-|Administración propiedades | Tercerizada |2015-2020|
-|Desarrollador Software | Integral Software |2020- actualidad|
+|Vendedor minorista mayorista compras pagos soft-gestión (empresa familiar) |Marroquineria Los Norteños|1983 2001|
+|Administración y Docente informático|System Paraná (franquicia)|2002 2005|
+|Administración y Atención|Cyber La Esquina|2005 2008|
+|Administración y Atención|Casa Parque (Salón eventos)|2009 2015|
+|Administración propiedades | Tercerizada |2015 2020|
+|Desarrollador Software | Integral Software |2020 actualidad|
 
 #### Educación
 
