@@ -1,5 +1,5 @@
 ## Damián Jimenez
-#### Damianjimenez@hotmail.com - Paraná - Entre Rios - Argentina
+#### Sabypna@gmail.com - Paraná - Entre Rios - Argentina
 
 #### Introducción
 > Hace unos años terminé mis estudios (mientras trabajaba también) que había postergado por otras prioridades, incluyendo mi familia directa (tengo mujer y dos hijas, actualmente una en Universidad y otra en finalizando Secundario). Desde que finalicé estoy abocado plenamente al desarrollo, aprendiendo de nuevas tecnologías para en lo posible innovar. Y me encanta.
@@ -37,3 +37,4 @@
 ![](./files/MVC.png)
 ![](./files/wEBAPI.png)
 
+## Por ahora,esto es todo...continuará...
