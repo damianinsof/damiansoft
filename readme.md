@@ -1,10 +1,10 @@
 ## Damián Jimenez
 #### Sabypna@gmail.com - Paraná - Entre Rios - Argentina
 
-#### Introducción
-> Hace unos años terminé mis estudios (mientras trabajaba también) que había postergado por otras prioridades, incluyendo mi familia directa (tengo mujer y dos hijas, actualmente una en Universidad y otra en finalizando Secundario). Desde que finalicé estoy abocado plenamente al desarrollo, aprendiendo de nuevas tecnologías para en lo posible innovar. Y me encanta.
+#### Intro
+> A few years ago I finished my studies (while also working) that I had postponed due to other priorities, including a family business and my immediate family (I have a wife and two daughters). Since then I have been fully devoted to development, learning about new technologies to innovate as much as possible . And I love it. I want to continue on this path.
 
-#### Tecnologías 
+#### Skills
 
 * Powerbuilder v2017 v2021  
 * SQL Server PosgreSql MongoDB MariaDB CouchBase CouchDB
@@ -12,20 +12,21 @@
 * IIS  - Kubernetes - NginX - Docker
 * C# C++ VisualBasic VisualFoxpro Fortran Cobol Assembler Prolog (Andrid Studio NetBeans Eclipse VSC)
 
-### Historial de empleos
+### History Work
 
 |Puesto| Empresa |Años|
 |:---|:---:|:----:|
-|Vendedor minorista mayorista compras pagos soft-gestión (empresa familiar) |Marroquineria Los Norteños|1983-2001|
-|Administración y Docente informático|System Paraná (franquicia)|2002-2005|
-|Administración y Atención|Cyber La Esquina|2005-2008|
-|Administración y Atención|Casa Parque (Salón eventos)|2009-2015|
-|Administración propiedades | Tercerizada |2015-2020|
-|Desarrollador Software | Integral Software |2020- actualidad|
+|Wholesale retailer purchases payments soft-management( family business) |Marroquineria Los Norteños|1983-2001|
+|Administration and IT teacher |System Paraná (Espanish Frnchise)|2002-2005|
+|Management and customer service |Cyber La Esquina|2005-2008|
+|Management and customer service|Casa Parque (Salón eventos)|2009-2015|
+|Property management | third party company |2015-2020|
+|software developer | Integral Software |2020- today|
 
 #### Educación
 
 ### Analista en Informática Aplicada - Universidad Nacional Litoral - Santa Fe.
+
 #### Técnico en Computación - ENET Nº 1 - Paraná -Entre Rios
 
 ![](./files/titulo.png)
@@ -37,4 +38,4 @@
 ![](./files/MVC.png)
 ![](./files/wEBAPI.png)
 
-## Por ahora, esto es todo...continuará...
+## that's all for now, to be continued
