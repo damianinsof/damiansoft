@@ -1,6 +1,7 @@
 ## Damián Jimenez
-#### Sabypna@gmail.com - Paraná - Entre Rios - Argentina
-
+#### Paraná - Entre Rios - Argentina
+Linkedin: https://www.linkedin.com/in/damianjimenezarg/  
+Email: Sabypna@gmail.com
  #### Intro
 > A few years ago I finished my studies (while also working) that I had postponed due to other priorities, including a family business and my immediate family (I have a wife and two daughters). Since then I have been fully devoted to development, learning about new technologies to innovate as much as possible . And I love it. I want to continue on this path.
 
