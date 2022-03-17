@@ -15,7 +15,7 @@ Email: Sabypna@gmail.com
 
 ### History Work
 
-|Puesto| Empresa |Años|
+|Job| Name Business | Years |
 |:---|:---:|:----:|
 |Wholesale retailer purchases payments soft-management( family business) |Marroquineria Los Norteños|1983-2001|
 |Administration and IT teacher |System Paraná (Espanish Frnchise)|2002-2005|
@@ -37,6 +37,7 @@ Email: Sabypna@gmail.com
 ![](./files/EFyLinq.png)
 ![](./files/Javascript.png)
 ![](./files/MVC.png)
-![](./files/wEBAPI.png)
+![](./files/wEBAPIc.png)
+
 
 ## that's all for now, to be continued
