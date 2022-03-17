@@ -16,7 +16,7 @@ Email: Sabypna@gmail.com
 ### History Work
 
 |Job| Name Business | Years |
-|:---|:---:|:----:|
+|:---:|:---:|:----:|
 |Wholesale retailer purchases payments soft-management( family business) |Marroquineria Los Norteños|1983-2001|
 |Administration and IT teacher |System Paraná (Espanish Frnchise)|2002-2005|
 |Management and customer service |Cyber La Esquina|2005-2008|
