@@ -1,7 +1,7 @@
 ## Damián Jimenez
 #### Sabypna@gmail.com - Paraná - Entre Rios - Argentina
 
-#### Intro
+ #### Intro
 > A few years ago I finished my studies (while also working) that I had postponed due to other priorities, including a family business and my immediate family (I have a wife and two daughters). Since then I have been fully devoted to development, learning about new technologies to innovate as much as possible . And I love it. I want to continue on this path.
 
 #### Skills
@@ -21,7 +21,7 @@
 |Management and customer service |Cyber La Esquina|2005-2008|
 |Management and customer service|Casa Parque (Salón eventos)|2009-2015|
 |Property management | third party company |2015-2020|
-|software developer | Integral Software |2020- today|
+|software developer  | Integral Software |2020- today |
 
 #### Educación
 
