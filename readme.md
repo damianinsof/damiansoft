@@ -7,7 +7,7 @@ Email: Sabypna@gmail.com
 
 #### Skills
 
-* Powerbuilder v2017 v2021  
+* Powerbuilder v2017 to v2022 
 * SQL Server PosgreSql MongoDB MariaDB CouchBase CouchDB
 * .NET Javascript -SvelteJs - VueJs - NodeJS - TypeScript BootStrap - Tailwind
 * IIS  - Kubernetes - NginX - Docker
