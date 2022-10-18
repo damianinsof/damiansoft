@@ -3,7 +3,7 @@
 Linkedin: https://www.linkedin.com/in/damianjimenezarg/  
 Email: Sabypna@gmail.com
  #### Intro
-> A few years ago I finished my studies (while also working) that I had postponed due to other priorities, including a family business and my immediate family (I have a wife and two daughters). Since then I have been fully devoted to development, learning about new technologies to innovate as much as possible . And I love it. I want to continue on this path.
+> I am very happy to have achieved my degree at 50 years old and the opportunities that were presented later, I really did not believe it was possible. It gives me much more strength to continue working and learning. Thank you very much to life and those who integrated my route
 
 #### Skills
 
