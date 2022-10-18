@@ -22,7 +22,7 @@ Email: Sabypna@gmail.com
 |Management and customer service |Cyber La Esquina|2005-2008|
 |Management and customer service|Casa Parque (Salón eventos)|2009-2015|
 |Property management | third party company |2015-2020|
-|software developer  | Integral Software |2020- today |
+|software developer  | Integral Software |2020- October 2022 |
 
 #### Educación
 
@@ -41,4 +41,4 @@ Email: Sabypna@gmail.com
 
 
 
-## that's all for now, to be continued
+
