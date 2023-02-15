@@ -39,6 +39,7 @@ Email: Sabypna@gmail.com
 ![](./files/MVC.png)
 ![](./files/webapic.png)
 ![](./files/r.jpg)
-![](./files/sql.jpg)
-![](./files/html_css.jpg)
+![](./files/sql.png)
+![](./files/html_css.png)
+![](./files/sveltejs.jpg)
 
