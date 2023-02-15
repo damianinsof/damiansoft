@@ -26,9 +26,11 @@ Email: Sabypna@gmail.com
 |software developer  | freelancer |November 2022 - today |
 #### Educación
 
-### Analista en Informática Aplicada - Universidad Nacional Litoral - Santa Fe.
+#### Analista en Informática Aplicada - Universidad Nacional Litoral - Santa Fe.
 
-#### Técnico en Computación - ENET Nº 1 - Paraná -Entre Rios
+##### Técnico en Computación - ENET Nº 1 - Paraná -Entre Rios
+
+# Certificates
 
 ![](./files/titulo.png)
 ![](./files/SnomedCT.png)
@@ -39,7 +41,8 @@ Email: Sabypna@gmail.com
 ![](./files/MVC.png)
 ![](./files/webapic.png)
 ![](./files/r.jpg)
+![](./files/sveltejs.png)
 ![](./files/sql.png)
 ![](./files/html_css.png)
-![](./files/sveltejs.jpg)
+
 
