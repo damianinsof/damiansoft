@@ -2,18 +2,22 @@
 #### Paraná - Entre Rios - Argentina
 Linkedin: https://www.linkedin.com/in/damianjimenezarg/  
 Email: Sabypna@gmail.com
- #### Intro
-> I am very happy to have achieved my degree as adult and the opportunities that were presented later, I really did not believe it was possible. It gives me much more strength to continue working and learning. Thank you very much to life and those who integrated my route
+ #### Intro - Presentación
+> I have some experience in business administration and I am very happy to have finished my degree study after starting a family. I like to study new technologies to apply in the continuous optimized use of functions already in use that require it.
 
-#### Skills
+>Tengo algo de experiencia en administracion de empresas y estoy muy feliz de haber finalizado mi estudio de grado despues de formar una familia. Me gusta estudiar nuevas tecnologías para aplicar en el uso optimizado continuo de funciones ya en uso que asi lo requieran.
 
+#### Skills - Habilidades
+
+* Bussiness administration and optimization
 * Powerbuilder v2017 to v2022 
-* SQL and noSQL - Server PosgreSql MongoDB MariaDB CouchBase CouchDB
-* C# .NETcore  Javascript Blazor
-* IIS  - Kubernetes - NginX - Docker
+* C# .NETcore MVC  Javascript Blazor Html CSS
+* SQL 
+* NginX - Docker 
 
 
-### History Work
+
+### History Work - Experiencias
 
 |Job| Name Business | Years |
 |:---:|:---:|:----:|
@@ -44,5 +48,6 @@ Email: Sabypna@gmail.com
 ![](./files/SvelteJS.png)
 ![](./files/sql.png)
 ![](./files/html_css.png)
+![](./files/Diplo%20Ind40.png)
 
 
