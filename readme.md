@@ -3,14 +3,15 @@
 Linkedin: https://www.linkedin.com/in/damianjimenezarg/  
 Email: Sabypna@gmail.com
  #### Intro - Presentación
-> I have some experience in business administration and I am very happy to have finished my degree study after starting a family. I like to study new technologies to apply in the continuous optimized use of functions already in use that require it.
+> I have experience in business administration and I am very happy to have finished my degree study after starting a family. I like to study new technologies to apply in the continuous optimized use of functions already in use that require it.
 
->Tengo algo de experiencia en administracion de empresas y estoy muy feliz de haber finalizado mi estudio de grado despues de formar una familia. Me gusta estudiar nuevas tecnologías para aplicar en el uso optimizado continuo de funciones ya en uso que asi lo requieran.
+>Tengo experiencia en administracion de empresas y estoy muy feliz de haber finalizado mi estudio de grado despues de formar una familia. Me gusta estudiar nuevas tecnologías para aplicar en el uso optimizado continuo de funciones ya en uso que asi lo requieran.
 
 #### Skills - Habilidades
 
 * Bussiness administration and optimization
 * Powerbuilder v2017 to v2022 
+*    (Migration to Powerserver)
 * C# .NETcore MVC  Javascript Blazor Html CSS
 * SQL 
 * NginX - Docker 
@@ -49,5 +50,4 @@ Email: Sabypna@gmail.com
 ![](./files/sql.png)
 ![](./files/html_css.png)
 ![](./files/Diplo%20Ind40.png)
-
-
+![](./files/tablero.png)
