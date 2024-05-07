@@ -51,3 +51,4 @@ Email: Sabypna@gmail.com
 ![](./files/html_css.png)
 ![](./files/Diplo%20Ind40.png)
 ![](./files/tablero.png)
+![](./files/Powerbi.jpg)
